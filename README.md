@@ -1,9 +1,11 @@
 # 📌 Plugin: DevTools-Blocker!
 
 An HFS plugin that increases front-end security by blocking access to browser developer tools.
- 
+
+ 
 ⚙️ Features:
- 
+ 
+
 👉 Blocks access to DevTools (F12, Ctrl+Shift+I).
 
 👉 Prevents viewing of source code via Ctrl+U.
