@@ -9,7 +9,8 @@ An HFS plugin that increases front-end security by blocking access to browser de
 👉 Prevents viewing of source code via Ctrl+U.
 
 👉 Disables the page zoom function (Ctrl + / Ctrl -).
- 
+
+ 
 🖥️ Prevent users from inspecting or modifying interface elements, ensuring greater control over the website's presentation.
 
  
