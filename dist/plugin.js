@@ -1,4 +1,4 @@
-exports.version = 0.5
+exports.version = 1.0
 exports.description = "Block browser development tool"
 exports.apiRequired = 1
 exports.repo = "Kiusky/hfs-DevTools-Blocker"
